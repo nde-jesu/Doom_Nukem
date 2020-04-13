@@ -1,4 +1,4 @@
-# 42-Doom
+# Doom_Nukem
 
 [![CodeFactor](https://www.codefactor.io/repository/github/kibotrel/42-doom/badge)](https://www.codefactor.io/repository/github/kibotrel/42-doom)
 
